@@ -13,6 +13,7 @@
 		1ACB636427FB43FA00D7D167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1ACB636227FB43FA00D7D167 /* Main.storyboard */; };
 		1ACB636627FB43FB00D7D167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1ACB636527FB43FB00D7D167 /* Assets.xcassets */; };
 		1ACB636927FB43FB00D7D167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1ACB636727FB43FB00D7D167 /* LaunchScreen.storyboard */; };
+		1ACB637127FB46BE00D7D167 /* SegmentedControlBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ACB637027FB46BE00D7D167 /* SegmentedControlBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1ACB636527FB43FB00D7D167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1ACB636827FB43FB00D7D167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1ACB636A27FB43FB00D7D167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1ACB637027FB46BE00D7D167 /* SegmentedControlBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControlBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1ACB635C27FB43FA00D7D167 /* AppDelegate.swift */,
 				1ACB635E27FB43FA00D7D167 /* SceneDelegate.swift */,
 				1ACB636027FB43FA00D7D167 /* ViewController.swift */,
+				1ACB637027FB46BE00D7D167 /* SegmentedControlBuilder.swift */,
 				1ACB636227FB43FA00D7D167 /* Main.storyboard */,
 				1ACB636527FB43FB00D7D167 /* Assets.xcassets */,
 				1ACB636727FB43FB00D7D167 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1ACB637127FB46BE00D7D167 /* SegmentedControlBuilder.swift in Sources */,
 				1ACB636127FB43FA00D7D167 /* ViewController.swift in Sources */,
 				1ACB635D27FB43FA00D7D167 /* AppDelegate.swift in Sources */,
 				1ACB635F27FB43FA00D7D167 /* SceneDelegate.swift in Sources */,
